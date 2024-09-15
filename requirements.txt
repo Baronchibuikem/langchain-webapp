@@ -1,0 +1,12 @@
+fastapi
+langchain
+langchain-community
+langsmith
+pydantic
+python-dotenv
+faiss-cpu
+youtube-transcript-api
+streamlit
+langserve
+uvicorn
+sse_starlette
